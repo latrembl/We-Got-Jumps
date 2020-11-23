@@ -1,0 +1,3 @@
+D:/!!!DESKTOP/Career/Finished Projects for Github/Mobile App Development/We Got Jumps/cmake-build-debug/CMakeFiles/main.cpp.dir
+D:/!!!DESKTOP/Career/Finished Projects for Github/Mobile App Development/We Got Jumps/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/!!!DESKTOP/Career/Finished Projects for Github/Mobile App Development/We Got Jumps/cmake-build-debug/CMakeFiles/rebuild_cache.dir

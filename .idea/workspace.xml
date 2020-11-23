@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="We_Got_Jumps" targetName="main.cpp" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="50d5d393-7d53-45f5-a9ad-75a85203be4c" name="Default" comment="removed background.h">
+      <change beforePath="$PROJECT_DIR$/JumpScores.txt" beforeDir="false" afterPath="$PROJECT_DIR$/JumpScores.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/graphics.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/graphics.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>cout</find>
+      <find>save</find>
+      <find>score</find>
+      <find>Menu().drawText(&quot;Score: &quot; + to_string(player.getScore()),2,1,1,0.5,20,20);</find>
+      <find>update position</find>
+      <find>andrew</find>
+      <find>head</find>
+      <find>fallmod</find>
+      <find>stagefall</find>
+      <find>platform</find>
+      <find>addNew</find>
+      <find>fall</find>
+      <find>.move</find>
+      <find>shiftsta</find>
+      <find>spacebar</find>
+      <find>update</find>
+      <find>position</find>
+      <find>shiftstage</find>
+      <find>move</find>
+      <find>drawScore()</find>
+      <find>addnew</find>
+      <find>platforms.at(i).draw</find>
+      <find>player</find>
+      <find>begin</find>
+      <find>platforms.at</find>
+      <find>platforms.at(i)</find>
+      <find>loadgame</find>
+      <find>newGame</find>
+      <find>level</find>
+      <find>jumpScores</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1gvQL7nVzUOtsEQlfgHI2vpgVE2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\latre\Desktop\Github\CS 120 Github\We-Got-Jumps" />
+      <recent name="C:\Users\latre\Desktop\Github\CS 120 Github\We-Got-Jumps\cmake-build-debug" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\latre\Desktop\Github\CS 120 Github\We-Got-Jumps" />
+    </key>
+  </component>
+  <component name="RunManager" selected="CMake Application.main.cpp">
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="We_Got_Jumps" RUN_TARGET_NAME="main.cpp" EXPLICIT_BUILD_TARGET_NAME="all">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main.cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="We_Got_Jumps" TARGET_NAME="main.cpp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="We_Got_Jumps" RUN_TARGET_NAME="main.cpp">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.Build All" />
+      <item itemvalue="CMake Application.main.cpp" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="50d5d393-7d53-45f5-a9ad-75a85203be4c" name="Default" comment="" />
+      <created>1525292453395</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1525292453395</updated>
+      <workItem from="1525292454664" duration="881000" />
+      <workItem from="1525293542182" duration="765000" />
+      <workItem from="1525294543213" duration="31313000" />
+      <workItem from="1525329272680" duration="8481000" />
+      <workItem from="1525337859440" duration="20000" />
+      <workItem from="1525337998329" duration="244000" />
+      <workItem from="1525465038430" duration="1086000" />
+      <workItem from="1525466233767" duration="24546000" />
+      <workItem from="1525492914707" duration="735000" />
+      <workItem from="1525493780526" duration="1193000" />
+      <workItem from="1525504624961" duration="2607000" />
+      <workItem from="1525811347901" duration="629000" />
+      <workItem from="1525980017598" duration="1374000" />
+      <workItem from="1598992528497" duration="132000" />
+      <workItem from="1598992750010" duration="1355000" />
+      <workItem from="1598994234182" duration="132000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="removed background.h" />
+    <option name="LAST_COMMIT_MESSAGE" value="removed background.h" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1346" y="274" key="FileChooserDialogImpl" timestamp="1598994192277">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1346" y="274" key="FileChooserDialogImpl/0.0.2560.1040@0.0.2560.1040" timestamp="1598994192277" />
+    <state width="1941" height="180" key="GridCell.Tab.0.bottom" timestamp="1598994365668">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1941" height="180" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1598994365668" />
+    <state width="1941" height="180" key="GridCell.Tab.0.center" timestamp="1598994365668">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1941" height="180" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1598994365668" />
+    <state width="1941" height="180" key="GridCell.Tab.0.left" timestamp="1598994365668">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1941" height="180" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1598994365668" />
+    <state width="1941" height="180" key="GridCell.Tab.0.right" timestamp="1598994365668">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1941" height="180" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1598994365668" />
+    <state x="908" y="185" key="SettingsEditor" timestamp="1598994340386">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="908" y="185" key="SettingsEditor/0.0.2560.1040@0.0.2560.1040" timestamp="1598994340386" />
+  </component>
+</project>

@@ -1,0 +1,164 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Program Files/Common Files/freeglut/include/GL/freeglut_std.h
+windows.h
+-
+EGL/egl.h
+-
+GLES/gl.h
+-
+GLES2/gl2.h
+-
+OpenGL/gl.h
+-
+OpenGL/glu.h
+-
+GL/gl.h
+-
+GL/glu.h
+-
+stdlib.h
+-
+
+C:/Program Files/Common Files/freeglut/include/GL/glut.h
+freeglut_std.h
+C:/Program Files/Common Files/freeglut/include/GL/freeglut_std.h
+
+D:/!!!DESKTOP/Career/Finished Projects for Github/Mobile App Development/We Got Jumps/graphics.cpp
+graphics.h
+D:/!!!DESKTOP/Career/Finished Projects for Github/Mobile App Development/We Got Jumps/graphics.h
+shapes.h
+D:/!!!DESKTOP/Career/Finished Projects for Github/Mobile App Development/We Got Jumps/shapes.h
+stage.h
+D:/!!!DESKTOP/Career/Finished Projects for Github/Mobile App Development/We Got Jumps/stage.h
+playerClass.h
+D:/!!!DESKTOP/Career/Finished Projects for Github/Mobile App Development/We Got Jumps/playerClass.h
+save.h
+D:/!!!DESKTOP/Career/Finished Projects for Github/Mobile App Development/We Got Jumps/save.h
+load.h
+D:/!!!DESKTOP/Career/Finished Projects for Github/Mobile App Development/We Got Jumps/load.h
+menu.h
+D:/!!!DESKTOP/Career/Finished Projects for Github/Mobile App Development/We Got Jumps/menu.h
+platform.h
+D:/!!!DESKTOP/Career/Finished Projects for Github/Mobile App Development/We Got Jumps/platform.h
+string
+-
+iostream
+-
+fstream
+-
+vector
+-
+
+D:/!!!DESKTOP/Career/Finished Projects for Github/Mobile App Development/We Got Jumps/graphics.h
+stdlib.h
+-
+windows.h
+-
+sys/time.h
+-
+GLUT/glut.h
+-
+GL/glut.h
+-
+
+D:/!!!DESKTOP/Career/Finished Projects for Github/Mobile App Development/We Got Jumps/load.cpp
+load.h
+D:/!!!DESKTOP/Career/Finished Projects for Github/Mobile App Development/We Got Jumps/load.h
+
+D:/!!!DESKTOP/Career/Finished Projects for Github/Mobile App Development/We Got Jumps/load.h
+fstream
+-
+iomanip
+-
+iostream
+-
+
+D:/!!!DESKTOP/Career/Finished Projects for Github/Mobile App Development/We Got Jumps/menu.cpp
+iostream
+D:/!!!DESKTOP/Career/Finished Projects for Github/Mobile App Development/We Got Jumps/iostream
+menu.h
+D:/!!!DESKTOP/Career/Finished Projects for Github/Mobile App Development/We Got Jumps/menu.h
+graphics.h
+D:/!!!DESKTOP/Career/Finished Projects for Github/Mobile App Development/We Got Jumps/graphics.h
+shapes.h
+D:/!!!DESKTOP/Career/Finished Projects for Github/Mobile App Development/We Got Jumps/shapes.h
+
+D:/!!!DESKTOP/Career/Finished Projects for Github/Mobile App Development/We Got Jumps/menu.h
+
+D:/!!!DESKTOP/Career/Finished Projects for Github/Mobile App Development/We Got Jumps/platform.cpp
+platform.h
+D:/!!!DESKTOP/Career/Finished Projects for Github/Mobile App Development/We Got Jumps/platform.h
+
+D:/!!!DESKTOP/Career/Finished Projects for Github/Mobile App Development/We Got Jumps/platform.h
+shapes.h
+D:/!!!DESKTOP/Career/Finished Projects for Github/Mobile App Development/We Got Jumps/shapes.h
+stage.h
+D:/!!!DESKTOP/Career/Finished Projects for Github/Mobile App Development/We Got Jumps/stage.h
+
+D:/!!!DESKTOP/Career/Finished Projects for Github/Mobile App Development/We Got Jumps/playerClass.cpp
+iostream
+D:/!!!DESKTOP/Career/Finished Projects for Github/Mobile App Development/We Got Jumps/iostream
+playerClass.h
+D:/!!!DESKTOP/Career/Finished Projects for Github/Mobile App Development/We Got Jumps/playerClass.h
+
+D:/!!!DESKTOP/Career/Finished Projects for Github/Mobile App Development/We Got Jumps/playerClass.h
+shapes.h
+D:/!!!DESKTOP/Career/Finished Projects for Github/Mobile App Development/We Got Jumps/shapes.h
+stage.h
+D:/!!!DESKTOP/Career/Finished Projects for Github/Mobile App Development/We Got Jumps/stage.h
+
+D:/!!!DESKTOP/Career/Finished Projects for Github/Mobile App Development/We Got Jumps/save.cpp
+save.h
+D:/!!!DESKTOP/Career/Finished Projects for Github/Mobile App Development/We Got Jumps/save.h
+
+D:/!!!DESKTOP/Career/Finished Projects for Github/Mobile App Development/We Got Jumps/save.h
+fstream
+-
+iomanip
+-
+iostream
+-
+
+D:/!!!DESKTOP/Career/Finished Projects for Github/Mobile App Development/We Got Jumps/shapes.cpp
+graphics.h
+D:/!!!DESKTOP/Career/Finished Projects for Github/Mobile App Development/We Got Jumps/graphics.h
+shapes.h
+D:/!!!DESKTOP/Career/Finished Projects for Github/Mobile App Development/We Got Jumps/shapes.h
+cmath
+-
+
+D:/!!!DESKTOP/Career/Finished Projects for Github/Mobile App Development/We Got Jumps/shapes.h
+
+D:/!!!DESKTOP/Career/Finished Projects for Github/Mobile App Development/We Got Jumps/stage.cpp
+stage.h
+D:/!!!DESKTOP/Career/Finished Projects for Github/Mobile App Development/We Got Jumps/stage.h
+
+D:/!!!DESKTOP/Career/Finished Projects for Github/Mobile App Development/We Got Jumps/stage.h
+fstream
+-
+iomanip
+-
+iostream
+-
+graphics.h
+D:/!!!DESKTOP/Career/Finished Projects for Github/Mobile App Development/We Got Jumps/graphics.h
+
+D:/!!!DESKTOP/Career/Finished Projects for Github/Mobile App Development/We Got Jumps/testing.cpp
+iostream
+-
+playerClass.h
+D:/!!!DESKTOP/Career/Finished Projects for Github/Mobile App Development/We Got Jumps/playerClass.h
+menu.h
+D:/!!!DESKTOP/Career/Finished Projects for Github/Mobile App Development/We Got Jumps/menu.h
+save.h
+D:/!!!DESKTOP/Career/Finished Projects for Github/Mobile App Development/We Got Jumps/save.h
+load.h
+D:/!!!DESKTOP/Career/Finished Projects for Github/Mobile App Development/We Got Jumps/load.h
+
